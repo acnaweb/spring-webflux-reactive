@@ -12,6 +12,7 @@ Creating Posts
 * curl -X POST "http://localhost:8080/posts" -H  "accept: */*" -H  "Content-Type: application/json" -d "{  \"message\": \"Hello World\",  \"user_id\": 1}"
 
 ## Tips
+* https://www.baeldung.com/reactor-core
 * https://www.baeldung.com/spring-events
 * https://levelup.gitconnected.com/reactive-spring-boot-api-with-next-js-client-b08147ae5712
 * https://medium.com/techbloghotmart/o-que-%C3%A9-server-side-rendering-e-como-usar-na-pr%C3%A1tica-a840d76a6dca
